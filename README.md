@@ -1,7 +1,7 @@
 # Fintech Bootcamp Capstone Project:
 # Project 3 - Ledgermon Lair
 
-![alt=""](pics/LedgerMon.png)
+![alt=""](LedgerMon.png)
 
 
 # NFT and Sprite Metadata Creation
@@ -94,8 +94,8 @@
 - Entering the flatten code from Solidity into Etherscan web page
 - Then Verify and Publish the code in order to let the external network can participate in the battle game
 
-![alt=""](pics/sepolia_battle.jpeg)
-![alt=""](pics/opensea.jpeg)
+![alt=""](sepolia_battle.jpeg)
+![alt=""](opensea.jpeg)
 
 
 # Front-end-GUI
